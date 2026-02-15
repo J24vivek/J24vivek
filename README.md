@@ -9,6 +9,23 @@
 - 🌱 Currently learning **Data Structures & Algorithms (C++), Full Stack Development**  
 - 💡 Interested in **Software Engineering, Web Development, and Problem Solving**  
 - 🎯 Goal: **High package as a Software Engineer**  
-- ⚡ Fun fact: I love building projects that solve real-world problems  
+- ⚡ Fun fact: I love building projects that solve real-world problems
+
+c
+
+cplusplus
+
+csharp
+
+go
+
+java
+
+javascript
+
+typescript
+
+php
+
 
 ---
