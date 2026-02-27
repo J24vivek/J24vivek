@@ -65,47 +65,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me  
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN  
-📧 **Email:** your.email@example.com  
-
----
-
 ⭐ *If you like my work, consider starring my repositories!*  
-
-
-
-
-
-
-
-
-
-
--------
-
-
-
-# 👋 Hi, I'm Vivek Jagtap  
-
-🎓 B.Tech in Computer Engineering | 3rd Year  
-💻 Aspiring Software Engineer | Web Developer | C++ DSA Enthusiast  
-
----
-
-## 🚀 About Me
-- 🌱 Currently learning **Data Structures & Algorithms (C++), Full Stack Development**  
-- 💡 Interested in **Software Engineering, Web Development, and Problem Solving**  
-- 🎯 Goal: **High package as a Software Engineer**  
-- ⚡ Fun fact: I love building projects that solve real-world problems
 
 ---
