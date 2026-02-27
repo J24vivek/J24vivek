@@ -7,22 +7,10 @@
 
 ## 🛠️ Tech Stack  
 
-### 👨‍💻 Programming Languages  
-- Java  
-- C++  
-- JavaScript  
-
-### 🌐 Web Development  
-- HTML  
-- CSS  
-- JavaScript  
-- React *(Learning)*  
-- Node.js *(Learning)*  
-
-### 🧰 Tools & Platforms  
-- Git & GitHub  
-- VS Code  
-- Linux *(Basics)*  
+> Visual previews of some projects I’ve built  
+<p align="center">
+  <img width="1536" height="745" alt="e0f7c355-66a2-4179-89a4-2892dbb533b6" src="https://github.com/user-attachments/assets/575c4d38-c642-4b89-8c02-d8dc848cdd08" />
+</p>
 
 ---
 
@@ -30,10 +18,10 @@
 
 > Visual previews of some projects I’ve built  
 <p align="center">
-<img width="1124" height="382" alt="Screenshot 2026-02-24 214148" src="https://github.com/user-attachments/assets/7723fe12-ea50-4816-bbfc-e32bdfe1bc4d" />
+<img width="1123" height="355" alt="Screenshot 2026-02-28 014331" src="https://github.com/user-attachments/assets/7805b892-d467-4bc3-b5f4-7be622e2bb09" />
 </p>
 
-
 ---
+
 
 ⭐ *If you like my work, consider starring ⭐ my repositories!*
