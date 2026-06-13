@@ -12,19 +12,13 @@
   
   **B.Tech in Computer Engineering (3rd Year) | Software Engineer | Web Developer**
   
-  <img src="https://komarev.com/ghpvc/?username=J24vivek&style=flat-square&color=blue" alt="Profile Views" />
-  
 </div>
 
 ---
 
 ## 🎯 About Me
 
-```
-A passionate full-stack developer dedicated to crafting elegant solutions to complex problems.
-Currently pursuing B.Tech in Computer Engineering while actively contributing to open-source
-and building production-ready applications. Strong foundation in DSA and system design principles.
-```
+A passionate full-stack developer dedicated to crafting elegant solutions to complex problems. Currently pursuing B.Tech in Computer Engineering while actively contributing to open-source and building production-ready applications. Strong foundation in DSA and system design principles.
 
 ---
 
@@ -35,14 +29,16 @@ and building production-ready applications. Strong foundation in DSA and system 
 ### **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -63,17 +59,37 @@ and building production-ready applications. Strong foundation in DSA and system 
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[Project 1](link)** | Building scalable full-stack applications | React, Node.js, MongoDB |
-| **[Project 2](link)** | Data structures implementation & algorithms | Java, DSA |
-| **[Project 3](link)** | RESTful API development | Express.js, MySQL |
+### 🔗 Explore My Best Work
 
 </div>
+
+#### 1️⃣ **Full-Stack E-Commerce Platform**
+- **Description:** A comprehensive e-commerce solution with product catalog, shopping cart, payment integration, and admin dashboard
+- **Tech Stack:** React.js | Redux Toolkit | Node.js | Express | MongoDB | Stripe API
+- **Key Features:** User authentication, order management, inventory tracking, responsive UI
+- **[View Repository](https://github.com/J24vivek) →**
+
+#### 2️⃣ **Data Structures & Algorithms Implementation**
+- **Description:** Comprehensive DSA library with optimized solutions and detailed explanations
+- **Tech Stack:** Java | DSA Patterns
+- **Key Features:** Binary Search, Dynamic Programming, Graph Algorithms, Problem solutions
+- **[View Repository](https://github.com/J24vivek) →**
+
+#### 3️⃣ **Real-time Chat Application**
+- **Description:** A scalable real-time messaging platform with socket integration and user management
+- **Tech Stack:** React.js | Redux Toolkit | Node.js | Socket.io | MySQL
+- **Key Features:** Real-time notifications, user authentication, message history, group chats
+- **[View Repository](https://github.com/J24vivek) →**
+
+#### 4️⃣ **RESTful API Backend Service**
+- **Description:** Production-ready API with authentication, error handling, and comprehensive documentation
+- **Tech Stack:** Express.js | MySQL | JWT | Postman
+- **Key Features:** JWT authentication, CRUD operations, error handling, API documentation
+- **[View Repository](https://github.com/J24vivek) →**
 
 ---
 
@@ -86,35 +102,13 @@ and building production-ready applications. Strong foundation in DSA and system 
   
 </div>
 
-<div align="center">
-  
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=J24vivek&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-  
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| Goal | Status |
-|------|--------|
-| 🔍 Strengthening DSA fundamentals in Java | 🔄 In Progress |
-| 💡 Building full-stack applications with React & Node.js | 🔄 In Progress |
-| 🤝 Contributing to open-source projects | 🔄 In Progress |
-| 📚 Learning system design & scalable architecture | 🔄 In Progress |
-| 🏆 Competitive programming & LeetCode problems | 🔄 In Progress |
-
-</div>
-
 ---
 
 ## 🌟 Highlights
 
 ```
 ✨ Strong foundation in Data Structures & Algorithms
-🎨 UI/UX conscious frontend development
+🎨 UI/UX conscious frontend development with Figma design expertise
 ⚡ Building performant and scalable applications
 🧠 Problem-solving mindset with attention to detail
 🚀 Quick learner and passionate about technology
