@@ -13,14 +13,4 @@
 
 ---
 
-## 🖼️ Project Snapshots  
-
-> Visual previews of some projects I’ve built  
-<p align="center">
-<img width="1123" height="355" alt="Screenshot 2026-02-28 014331" src="https://github.com/user-attachments/assets/7805b892-d467-4bc3-b5f4-7be622e2bb09" />
-</p>
-
----
-
-
 ⭐ *If you like my work, consider starring ⭐ my repositories!*
