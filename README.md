@@ -1,16 +1,13 @@
 <div align="center">
   
   # 👋 Hi, I'm **Vivek Jagtap**
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Java+DSA+Enthusiast;Software+Engineer;Building+Scalable+Solutions)](https://git.io/typing-svg)
-  
-</div>
-
----
-
-<div align="center">
+  <div align="center">
   
   **B.Tech in Computer Engineering (3rd Year) | Software Engineer | Web Developer**
+  
+</div>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Java+DSA+Enthusiast;Software+Engineer;Building+Scalable+Solutions)](https://git.io/typing-svg)
   
 </div>
 
