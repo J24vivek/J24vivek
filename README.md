@@ -1,12 +1,9 @@
 <div align="center">
   
-  # 👋 Hi, I'm **Vivek Jagtap**
-  <div align="center">
+  👋 Hi, I'm **Vivek Jagtap**
   
-  **B.Tech in Computer Engineering (3rd Year) | Software Engineer | Web Developer**
-  
-</div>
-  
+ B.Tech in Computer Engineering | Software Engineer | Web Developer
+    
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Java+DSA+Enthusiast;Software+Engineer;Building+Scalable+Solutions)](https://git.io/typing-svg)
   
 </div>
@@ -21,14 +18,14 @@ A passionate full-stack developer dedicated to crafting elegant solutions to com
 
 ## 💻 Tech Stack
 
-<div align="center">
+<div>
 
-# *Languages*
+*Languages*
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# *Frontend Development*
+*Frontend Development*
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -37,7 +34,7 @@ A passionate full-stack developer dedicated to crafting elegant solutions to com
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-# *Backend Development*
+*Backend Development*
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
@@ -46,7 +43,7 @@ A passionate full-stack developer dedicated to crafting elegant solutions to com
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-# *Tools & Technologies*
+*Tools & Technologies*
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -56,13 +53,7 @@ A passionate full-stack developer dedicated to crafting elegant solutions to com
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🔗 Explore My Best Work
-
-</div>
+## 🚀 Projects
 
 #### 1️⃣ **Full-Stack E-Commerce Platform**
 - **Description:** A comprehensive e-commerce solution with product catalog, shopping cart, payment integration, and admin dashboard
@@ -94,45 +85,21 @@ A passionate full-stack developer dedicated to crafting elegant solutions to com
 
 <div align="center">
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=J24vivek&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=J24vivek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=J24vivek&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=J24vivek&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
 </div>
-
----
-
-## 🌟 Highlights
-
-```
-✨ Strong foundation in Data Structures & Algorithms
-🎨 UI/UX conscious frontend development with Figma design expertise
-⚡ Building performant and scalable applications
-🧠 Problem-solving mindset with attention to detail
-🚀 Quick learner and passionate about technology
-```
 
 ---
 
 ## 📫 Connect With Me
 
-<div align="center">
+<div>
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-jagtap)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J24vivek)
   [![Email](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/J24vivek)
-  
-</div>
-
----
-
-## 💝 Support
-
-<div align="center">
-  
-  If you find my projects helpful or interesting, please consider giving them a ⭐
-  
-  Your support motivates me to create better content and contribute more to the community!
   
 </div>
 
@@ -146,6 +113,6 @@ A passionate full-stack developer dedicated to crafting elegant solutions to com
   
   <br><br>
   
-  Made with ❤️ by [Vivek Jagtap](https://github.com/J24vivek)
+  by [Vivek Jagtap](https://github.com/J24vivek)
   
 </div>
