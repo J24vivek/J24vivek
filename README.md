@@ -4,7 +4,7 @@
   
  B.Tech in Computer Engineering | Software Engineer | Web Developer
     
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Java+DSA+Enthusiast;Software+Engineer;Building+Scalable+Solutions)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Java+DSA+Enthusiast;Software+Engineer;Building+Scalable+Applications)](https://git.io/typing-svg)
   
 </div>
 
@@ -67,22 +67,10 @@ A passionate full-stack developer dedicated to crafting elegant solutions to com
 - **Key Features:** User authentication, order management, inventory tracking, responsive UI
 - **[View Repository](https://github.com/J24vivek) →**
 
-#### 2️⃣ **Data Structures & Algorithms Implementation**
-- **Description:** Comprehensive DSA library with optimized solutions and detailed explanations
-- **Tech Stack:** Java | DSA Patterns
-- **Key Features:** Binary Search, Dynamic Programming, Graph Algorithms, Problem solutions
-- **[View Repository](https://github.com/J24vivek) →**
-
-#### 3️⃣ **Real-time Chat Application**
+#### 2️⃣ **Real-time Chat Application**
 - **Description:** A scalable real-time messaging platform with socket integration and user management
 - **Tech Stack:** React.js | Redux Toolkit | Node.js | Socket.io | MySQL
 - **Key Features:** Real-time notifications, user authentication, message history, group chats
-- **[View Repository](https://github.com/J24vivek) →**
-
-#### 4️⃣ **RESTful API Backend Service**
-- **Description:** Production-ready API with authentication, error handling, and comprehensive documentation
-- **Tech Stack:** Express.js | MySQL | JWT | Postman
-- **Key Features:** JWT authentication, CRUD operations, error handling, API documentation
 - **[View Repository](https://github.com/J24vivek) →**
 
 ---
