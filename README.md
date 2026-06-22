@@ -1,18 +1,14 @@
 <div align="center">
   
-  👋 Hi, I'm **Vivek Jagtap**
+  ##👋 Hi, I'm **Vivek Jagtap**
   
-  ##  B.Tech in Computer Engineering | Full Stack Web Developer | Java DSA Enthusiast | Software Engineer 
-
-  <div align="center">
+  B.Tech in Computer Engineering | Full Stack Web Developer | Java DSA Enthusiast 
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-jagtap)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J24vivek)
   [![Email](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/J24vivek)
   
-  </div>
-
 A dedicated full-stack developer with a passion for building robust, scalable applications. Currently pursuing B.Tech in Computer Engineering while actively contributing to open-source projects and creating innovative solutions. Experienced in both frontend and backend development with a strong foundation in Data Structures and Algorithms.
 
 </div>
@@ -22,9 +18,9 @@ A dedicated full-stack developer with a passion for building robust, scalable ap
 ## 💻 Tech Stack
 
 ### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -88,9 +84,7 @@ A dedicated full-stack developer with a passion for building robust, scalable ap
 <div align="center">
   
   **"The best code is not the one that works, but the one that solves problems elegantly."**
-  
-  <br><br>
-  
-  Made by [Vivek Jagtap](https://github.com/J24vivek) ✨
+    
+  ✨ [Vivek Jagtap](https://github.com/J24vivek) ✨
   
 </div>
