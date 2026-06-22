@@ -19,7 +19,11 @@
 
 ### **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -63,7 +67,7 @@
 
 <div align="center">
     
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J24vivek&theme=tokyonight&hide_border=true&background=1e1b32&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=0077B5&sideNu[...]
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J24vivek&theme=tokyonight&hide_border=true&background=1e1b32&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=0077B5&si[...]
   
 </div>
 
