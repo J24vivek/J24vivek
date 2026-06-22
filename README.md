@@ -1,6 +1,6 @@
 <div align="center">
   
-  ##👋 Hi, I'm **Vivek Jagtap**
+  ***👋 Hi, I'm **Vivek Jagtap** ***
   
   B.Tech in Computer Engineering | Full Stack Web Developer | Java DSA Enthusiast 
   
