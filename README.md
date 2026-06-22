@@ -1,18 +1,21 @@
 <div align="center">
   
-  # 👋 Hi, I'm **Vivek Jagtap**
+  👋 Hi, I'm **Vivek Jagtap**
   
-  ### Full Stack Web Developer | Java DSA Enthusiast | Software Engineer
-  
-  B.Tech in Computer Engineering | Passionate about solving complex problems elegantly
-  
-</div>
+  ##  B.Tech in Computer Engineering | Full Stack Web Developer | Java DSA Enthusiast | Software Engineer 
 
----
-
-## 🎯 About Me
+  <div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-jagtap)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J24vivek)
+  [![Email](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/J24vivek)
+  
+  </div>
 
 A dedicated full-stack developer with a passion for building robust, scalable applications. Currently pursuing B.Tech in Computer Engineering while actively contributing to open-source projects and creating innovative solutions. Experienced in both frontend and backend development with a strong foundation in Data Structures and Algorithms.
+
+</div>
 
 ---
 
@@ -75,23 +78,8 @@ A dedicated full-stack developer with a passion for building robust, scalable ap
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J24vivek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1b32&title_color=0077B5&text_color=0077B5)
-  
+    
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J24vivek&theme=tokyonight&hide_border=true&background=1e1b32&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=0077B5&sideNums=0077B5&sideLabels=0077B5&dates=0077B5)
-  
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-jagtap)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J24vivek)
-  [![Email](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/J24vivek)
   
 </div>
 
