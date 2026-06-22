@@ -65,7 +65,7 @@
 
 ## 🚀 Projects
 
-### **1. Full-Stack E-Commerce Platform**
+### **1 . Full-Stack E-Commerce Platform**
 - **Description:** A comprehensive e-commerce solution with product catalog, shopping cart, payment integration, and admin dashboard
 - **Tech Stack:** React.js | Redux Toolkit | Node.js | Express | MongoDB | Stripe API
 - **Key Features:** 
@@ -75,7 +75,7 @@
   - Responsive UI design
 - **[View Repository →](https://github.com/J24vivek)**
 
-### **2. Real-time Chat Application**
+### **2 . Real-time Chat Application**
 - **Description:** A scalable real-time messaging platform with socket integration and comprehensive user management
 - **Tech Stack:** React.js | Redux Toolkit | Node.js | Socket.io | MySQL
 - **Key Features:**
