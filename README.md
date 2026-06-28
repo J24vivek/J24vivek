@@ -2,7 +2,7 @@
   
   <h1 style="color:#1E90FF; font-size:48px;">👋 Hi, I'm Vivek Jagtap</h1>
   
-  B.Tech in Computer Engineering | Full Stack Web Developer | Java & DSA Enthusiast
+  B.Tech in CSE | MERN Stack | Full Stack Web Developer | Java & DSA Enthusiast
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-jagtap)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J24vivek)
@@ -44,7 +44,7 @@
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-### --- Databases & Persistence
+### --- Databases
 
 <p style="gap:10px">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
