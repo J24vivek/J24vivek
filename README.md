@@ -17,7 +17,7 @@
 
 ## 💻 Tech Stack
 
-### --- Languages
+###  Languages
 
 <p style="gap:10px">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -26,7 +26,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### --- Frontend
+###  Frontend
 
 <p style="gap:10px">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -35,7 +35,7 @@
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-### --- Backend & APIs
+###  Backend & APIs
 
 <p style="gap:10px">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -44,14 +44,14 @@
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-### --- Databases
+###  Databases
 
 <p style="gap:10px">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### --- Dev Tools & Infrastructure
+###  Dev Tools & Infrastructure
 
 <p style="gap:10px">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
