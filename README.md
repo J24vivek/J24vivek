@@ -1,6 +1,7 @@
 <div align="center">
   
-  <h1 style="color:#1E90FF; font-size:48px;">👋 Hi, I'm Vivek Jagtap</h1>
+  <h1 style="color:#1E90FF; font-size:48px;">👋 Hi, I'm Vivek Jagtap</h1> 
+  ![Profile views](https://komarev.com/ghpvc/?username=J24vivek&style=flat-square)
   
   B.Tech in CSE | MERN Stack | Full Stack Web Developer | Java & DSA Enthusiast
   
