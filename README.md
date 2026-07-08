@@ -1,6 +1,7 @@
 <div align="center">
   
   <h1 style="color:#1E90FF; font-size:48px;">👋 Hi, I'm Vivek Jagtap</h1>   
+  
   B.Tech in CSE | MERN Stack | Full Stack Web Developer | Java & DSA Enthusiast
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-jagtap)
